@@ -1,6 +1,3 @@
-Sure! Below is a clean and complete `README.md` file for your repository, combining both **Attention-based RNN (`Dl_Assignment_3_Attention`)** and **Vanilla RNN (`Dl_Assignment_3_no_attention`)** sections with correct project names and filenames. It's formatted professionally for GitHub and ready to use.
-
----
 
 ```markdown
 # DL Assignment 3 — Telugu Transliteration using Seq2Seq Models
